@@ -1,0 +1,15 @@
+{
+  "plugins": {
+    "autoprefixer": true,
+    "postcss-simple-vars": {
+      "variables": {
+        "orange": "#EC7404", 
+        "darkGrey": "#464646", 
+        "grey": "#C8C8C8",
+        "lighterGrey": "#EEEEEE",
+        "lightestGrey": "#F5F5F5",
+      }
+    },
+    "postcss-rgb": true
+  }
+}
